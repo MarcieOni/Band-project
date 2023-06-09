@@ -1,8 +1,17 @@
 .about {
     float: left;
-    width: 25%;
+    width: 32%;
+    padding: 10px;
+    text-align: left;
+    border: 2px dashed black;
+    margin: 10px;
+    box-sizing: border-box;
 }
 
 h1 {
     text-align: center;
+}
+
+#pic3 {
+    height: 150px;
 }
